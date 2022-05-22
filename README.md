@@ -1,4 +1,5 @@
-# CourseManager
+![Course Manager](https://github.com/Tiag0Santos/course-manager/blob/master/src/assets/images/course-manager.png)
+# Course-Manager
 
 Esse projeto foi desenvolvido nas aulas de introdução ao Angular 8 da Digital innovation one
 
